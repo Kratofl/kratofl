@@ -8,6 +8,7 @@ _Web:_ $\textcolor{purple}{\textsf{ASP.NET - MVC/Razor Page/Blazor}}$, $\textcol
 _Mobile:_ $\textcolor{#ec6313}{\textsf{Swift}}$
 
 _Databases:_ $\textcolor{lightblue}{\textsf{SQL}}$ , $\textcolor{purple}{\textsf{InfluxDb}}$
+
 ---
 Some more stuff:
 
