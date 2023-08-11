@@ -1,13 +1,13 @@
 ## Hello there ... General Kenobi
 
 ### Experiences
-**Languages:** $\textcolor{green}{\textsf{Csharp}}$, $\textcolor{brown}{\textsf{Java}}$, $\textcolor{darkblue}{\textsf{Powershell Script}}$, $\textcolor{aqua}{\textsf{Go}}$ (learning)
+**Languages:** `$\textcolor{green}{\textsf{Csharp}}$`, `$\textcolor{brown}{\textsf{Java}}$`, `$\textcolor{darkblue}{\textsf{Powershell Script}}$`, `$\textcolor{aqua}{\textsf{Go}}$ (learning)`
 
-**Web:** $\textcolor{purple}{\textsf{ASP.NET - MVC/Razor Page/Blazor}}$, $\textcolor{red}{\textsf{Angular}}$
+**Web:** `$\textcolor{purple}{\textsf{ASP.NET - MVC/Razor Page/Blazor}}$`, `$\textcolor{red}{\textsf{Angular}}$`
 
-**Mobile:** $\textcolor{#ec6313}{\textsf{Swift}}$
+**Mobile:** `$\textcolor{#ec6313}{\textsf{Swift}}$`
 
-**Databases:** $\textcolor{lightblue}{\textsf{SQL}}$ , $\textcolor{purple}{\textsf{InfluxDb}}$
+**Databases:** `$\textcolor{lightblue}{\textsf{SQL}}$`, `$\textcolor{purple}{\textsf{InfluxDb}}$`
 
 ---
 ### Some more stuff:
