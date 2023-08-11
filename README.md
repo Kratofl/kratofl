@@ -1,9 +1,10 @@
 ### Hello there ... General Kenobi
 
 #### Experiences
-_Languages:_ C#, Java, Powershell Scripts, Go (learning)
+_Languages:_ C#, Java, Powershell Scripts, Go (learning) <br>
 _Web:_ MVC/Razor/Blazor, Angular
 _Mobile:_ <span style="color: magenta">Swift</span>
+#### $\textcolor{magenta}{\textsf{Color didint work .}}$ 
 _Databases:_ SQL, InfluxDB
 
 Some more stuff:
