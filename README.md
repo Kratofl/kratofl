@@ -1,7 +1,7 @@
 ### Hello there ... General Kenobi
 
 #### Experiences
-_Languages:_ $\textcolor{green}{\textsf{C\#}}$, $\textcolor{brown}{\textsf{Java}}$, $\textcolor{darkblue}{\textsf{Powershell Script}}$, $\textcolor{aqua}{\textsf{Go}}$ (learning)
+_Languages:_ $\textcolor{green}{\textsf{Csharp}}$, $\textcolor{brown}{\textsf{Java}}$, $\textcolor{darkblue}{\textsf{Powershell Script}}$, $\textcolor{aqua}{\textsf{Go}}$ (learning)
 
 _Web:_ $\textcolor{purple}{\textsf{ASP.NET - MVC/Razor Page/Blazor}}$, $\textcolor{red}{\textsf{Angular}}$
 
