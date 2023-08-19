@@ -1,13 +1,22 @@
 ## Hello there ... General Kenobi
 
 ### Experiences
-**Languages:** C#, Java, Powershell Script, Go (learning)
+**Languages:** 
+* C#
+* Java
+* Powershell Script
+* Go (learning)
 
-**Web:** ASP.NET - MVC/Razor Page/Blazor, Angular
+**Web:** 
+* ASP.NET - MVC/Razor Page/Blazor
+* Angular
 
-**Mobile:** Swift
+**Mobile:** 
+* Swift
 
-**Databases:** SQL , InfluxDb
+**Databases:** 
+* SQL
+* InfluxDb
 
 ---
 ### Some more stuff:
