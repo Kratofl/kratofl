@@ -5,11 +5,12 @@
 * C#
 * Java
 * Powershell Script
-* Go (learning)
+* Go
 
 **Web:** 
 * ASP.NET - MVC/Razor Page/Blazor
 * Angular
+* Next.Js
 
 **Mobile:** 
 * Swift
